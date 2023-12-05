@@ -69,4 +69,4 @@ print(cube_conundrum_part1())
 
 # Part 2
 print((cube_conundrum_part2()))
-# Output: 
+# Output: 70924
